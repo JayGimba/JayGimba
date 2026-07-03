@@ -1,9 +1,11 @@
-<!DOCTYPE html>
+<img width="1911" height="1199" alt="image" src="https://github.com/user-attachments/assets/db4ec82a-26cb-4f71-a2a4-b42eb935a4d1" /><!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Personal CV</title>
+    https://roadmap.sh/projects/single-page-cv
+
 </head>
 <body>
     <h2>Jibrin Gimba</h2>
