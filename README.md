@@ -1,16 +1,40 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Personal CV</title>
+</head>
+<body>
+    <h2>Jibrin Gimba</h2>
 
-<!--
-**JayGimba/JayGimba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+    <h6 style="color: #2dc32d;">Junior Frontend Developer.</h6>
+    <p>No 18 Sheikh Abdullah Street.</p>
+    <p>07065566753</p>
+    <p>jibringimba6@gmail.com</p>
 
-Here are some ideas to get you started:
+    <h6 style="color: #2dc32d;">Skills.</h6>
+    <p>HTML, CSS, JavaScript, UI/UX Design, Tailwind, React</p>
+    
+    <h6 style="color: #2dc32d;">Education.</h6>
+    <p style="color: #2b2be8e6;">Ibrahim Badamasi BabanGida University, Lapai.</p>
+    <p>March 2023- October 2026.</p>
+    <p>Plumbing Club.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <h6 style="color: #2dc32d;">Experience.</h6>
+    <p style="color: #2b2be8e6;">JD Lab.</p>
+    <p>May 2025-Oct 2025</p>
+    <p>Frontend Developer</p>
+    <ul>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>Tailwind</li>
+    </ul>
+
+    <h6 style="color:#2dc32d;"></h6>
+
+
+    
+</body>
+</html>
+
